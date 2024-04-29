@@ -1,0 +1,162 @@
+{
+  "types": [
+    {
+      "id": "1",
+      "name": "Fresh Fruits",
+      "numberOfProducts": 9,
+      "pic": "/src/assets/category__1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Vegs",
+      "numberOfProducts": 4,
+      "pic": "/src/assets/category__2 .jpg"
+    },
+    {
+      "id": "3",
+      "name": "osama yousssef",
+      "numberOfProducts": 8,
+      "pic": "/src/assets/category__3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Canned Goods",
+      "numberOfProducts": 19,
+      "pic": "/src/assets/category__4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Fishes",
+      "numberOfProducts": 5,
+      "pic": "/src/assets/category__5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Eggs & Dairy",
+      "numberOfProducts": 1,
+      "pic": "/src/assets/category__6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Soft Drinks",
+      "numberOfProducts": "9",
+      "pic": "/src/assets/category__7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Fresh Fruits",
+      "numberOfProducts": 3,
+      "pic": "/src/assets/category__1.jpg"
+    }
+  ],
+
+  "goods": [
+    {
+      "id": "fruit",
+      "title": "Fruits & Vegetables",
+      "bio": "Buy farm fresh fruits and vegetables online at the best prices",
+      "filter": ["fruits", "vegetables", "bread & bakery"],
+      "banner": "/src/assets/menu_1/feature__1.webp",
+      "Products": [
+        {
+          "name": "Dried Mango",
+          "price": 500,
+          "rate": 2,
+          "pic": "/src/assets/menu_1/product__1.jpg"
+        },
+        {
+          "name": "Crunchy Crisps",
+          "price": 300,
+          "rate": 4,
+          "pic": "/src/assets/menu_1/product__2.webp"
+        },
+        {
+          "name": "jewel Cranberries",
+          "price": 200,
+          "rate": 1,
+          "pic": "/src/assets/menu_1/product__3.webp"
+        },
+        {
+          "name": "Almond organic",
+          "price": 100,
+          "rate": 0,
+          "pic": "/src/assets/menu_1/product__4.webp"
+        }
+      ]
+    },
+    {
+      "id": "coocky",
+      "title": "Fruits & Vegetables",
+      "bio": "Buy farm fresh fruits and vegetables online at the best prices",
+      "filter": ["fruits", "vegetables", "bread & bakery"],
+      "banner": "/src/assets/menu_2/feature__2.webp",
+      "Products": [
+        {
+          "name": "Dried Mango",
+          "price": 500,
+          "rate": 2,
+          "pic": "/src/assets/menu_2/product__1.webp"
+        },
+        {
+          "name": "Crunchy Crisps",
+          "price": 225,
+          "rate": 2,
+          "pic": "/src/assets/menu_2/product__2.webp"
+        },
+        {
+          "name": "jewel Cranberries",
+          "price": 10,
+          "rate": 1,
+          "pic": "/src/assets/menu_2/product__3.webp"
+        },
+        {
+          "name": "Almond organic",
+          "price": 50,
+          "rate": 3,
+          "pic": "/src/assets/menu_2/product__4.webp"
+        }
+      ]
+    }
+  ],
+
+  "gallray": ["/src/assets/banner__1.webp", "/src/assets/banner__2.webp"],
+
+  "news": [
+    {
+      "title": "healthy Food",
+      "date": "Aug 26 2023",
+      "comment": 7,
+      "pic": "/src/assets/news/post__1.webp"
+    },
+    {
+      "title": "better Life",
+      "date": "Aug 20 2023",
+      "comment": 2,
+      "pic": "/src/assets/news/post__2.webp"
+    },
+    {
+      "title": "the best clabaza",
+      "date": "Aug 24 2023",
+      "comment": 121,
+      "pic": "/src/assets/news/post__3.webp"
+    }
+  ],
+  "features": [
+    {
+      "title": "healthy Food",
+      "bio": "Buy best quality breakfast online from big-basket stop near you."
+    },
+    {
+      "title": "healthy Food",
+      "bio": "Buy best quality breakfast online from big-basket stop near you."
+    },
+    {
+      "title": "healthy Food",
+      "bio": "Buy best quality breakfast online from big-basket stop near you."
+    },
+    {
+      "title": "healthy Food",
+      "bio": "Buy best quality breakfast online from big-basket stop near you."
+    }
+  ]
+}
